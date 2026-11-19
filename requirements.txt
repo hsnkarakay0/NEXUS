@@ -1,0 +1,7 @@
+numpy
+sounddevice
+pyttsx3
+requests
+faster-whisper
+pyvmomi
+comtypes; platform_system == 'Windows'
