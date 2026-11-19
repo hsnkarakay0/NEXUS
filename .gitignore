@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NEXUS private lab artifacts
+models/
+.env.*
+*.bak
+*.iso
+*.pem
+*.key
